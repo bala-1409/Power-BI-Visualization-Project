@@ -25,12 +25,12 @@ _The Data has Road Accident Report for the year 2021 and 2022 extracted from Min
 * _The data insights can be used to reduce the accuidents and to improve emergency rooms in hospitals based on severity._
 
 _The Possible Stakeholders who gain insights from the report are:_
-    - _Ministry of Transport_
-    - _Road Transport Department_
-    - _Police Force_
-    - _Emergency Services Department_
-    - _Road Safety Corps_
-    - _Transport Operators_
-    - _Traffic Management Agencies_
-    - _Public_
-    - _Media_
+   - _Ministry of Transport_
+   - _Road Transport Department_
+   - _Police Force_
+   - _Emergency Services Department_
+   - _Road Safety Corps_
+   - _Transport Operators_
+   - _Traffic Management Agencies_
+   - _Public_
+   - _Media_
