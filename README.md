@@ -19,17 +19,17 @@ _The Reported Data collected from HR Department in a Reputed Firm which contains
 * _The data has various factors such as Employee Detail, Department, Educational Qualification, Job Satisfaction Score, Working Experience at the Firm._
 * _The data possess Salary Data of Each Employee, Hourly Rate, Salary Hike Percent._
 * _Over-Time Working Hours, Standard Working Hours, Number of Companies Worked in Past, Total Number of Working Years can also extracted from the data._
-## _[Road Accident Report](Road%20Accident%20Report)
-The Data has Road Accident Report for the year 2021 and 2022 extracted from Ministry of Road Transport and Highways portal.
-* The data is analyzed to gain multiple insights which can be helpful for the Stakeholders.
-* The data insights can be used to reduce the accuidents and to improve emergency rooms in hospitals based on severity.
-The Possible Stakeholders who gain insights from the report are:
-   - Ministry of Transport
-   - Road Transport Department
-   - Police Force
-   - Emergency Services Department
-   - Road Safety Corps
-   - Transport Operators
-   - Traffic Management Agencies
-   - Public
-   - Media
+## _[Road Accident Report](Road%20Accident%20Report)_
+_The Data has Road Accident Report for the year 2021 and 2022 extracted from Ministry of Road Transport and Highways portal._
+* _The data is analyzed to gain multiple insights which can be helpful for the Stakeholders._
+* _The data insights can be used to reduce the accuidents and to improve emergency rooms in hospitals based on severity._
+_The Possible Stakeholders who gain insights from the report are:_
+   - _Ministry of Transport_
+   - _Road Transport Department_
+   - _Police Force_
+   - _Emergency Services Department_
+   - _Road Safety Corps_
+   - _Transport Operators_
+   - _Traffic Management Agencies_
+   - _Public_
+   - _Media_
