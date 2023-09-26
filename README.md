@@ -19,6 +19,10 @@ _The Reported Data collected from HR Department in a Reputed Firm which contains
 * _The data has various factors such as Employee Detail, Department, Educational Qualification, Job Satisfaction Score, Working Experience at the Firm._
 * _The data possess Salary Data of Each Employee, Hourly Rate, Salary Hike Percent._
 * _Over-Time Working Hours, Standard Working Hours, Number of Companies Worked in Past, Total Number of Working Years can also extracted from the data._
+## _[Pizza Sales Analysis](Pizza%20Sales%20Analysis)
+
+
+
 ## _[Road Accident Report](Road%20Accident%20Report)_
 _The Data has Road Accident Report for the year 2021 and 2022 extracted from Ministry of Road Transport and Highways portal._
 * _The data is analyzed to gain multiple insights which can be helpful for the Stakeholders._
