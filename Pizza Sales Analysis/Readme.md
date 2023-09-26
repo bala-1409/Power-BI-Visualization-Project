@@ -1,9 +1,9 @@
-## Objectives:
-* Create a KPI banner and find Total Revenue, Average Order Value, Total Pizzas Sold, Total Order, Average Pizza Per Order and visualize it through the KPI banners.
-* Visualize Daily Trend and Monthly Trend for Total Orders.
-* Show the Percentage of Sales by Pizza Category and Percentage of Sales by Pizza Size.
-* Visualize Total Pizzas Sold by Pizza Category through Funnel chart.
-* Find the Top 5 Best Sold Pizzas & Bottom 5 Worst Sold Pizzas by Revenue, Total Quantity and Orders and showcase it.
+## _Objectives:_
+* _Create a KPI banner and find Total Revenue, Average Order Value, Total Pizzas Sold, Total Order, Average Pizza Per Order and visualize it through the KPI banners._
+* _Visualize Daily Trend and Monthly Trend for Total Orders._
+* _Show the Percentage of Sales by Pizza Category and Percentage of Sales by Pizza Size._
+* _Visualize Total Pizzas Sold by Pizza Category through Funnel chart._
+* _Find the Top 5 Best Sold Pizzas & Bottom 5 Worst Sold Pizzas by Revenue, Total Quantity and Orders and showcase it._
 ## _Dashboards_
 ### _Home :_
 
