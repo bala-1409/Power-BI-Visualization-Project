@@ -19,10 +19,12 @@ _The Reported Data collected from HR Department in a Reputed Firm which contains
 * _The data has various factors such as Employee Detail, Department, Educational Qualification, Job Satisfaction Score, Working Experience at the Firm._
 * _The data possess Salary Data of Each Employee, Hourly Rate, Salary Hike Percent._
 * _Over-Time Working Hours, Standard Working Hours, Number of Companies Worked in Past, Total Number of Working Years can also extracted from the data._
-## _[Pizza Sales Analysis](Pizza%20Sales%20Analysis)
-
-
-
+## _[Pizza Sales Analysis](Pizza%20Sales%20Analysis)_
+_The Data is from Pizza Store regarding their Sales and Revenue._
+* _The Sales data is for the year of 2015 and contains 48,620 sales records._
+* _The data has various factors such as pizza id, order id, pizza name id, quantity, order date, order time, unit price, total price, pizza size, pizza category, pizza ingredient and pizza name._
+* _The Sales report is analysed to get further insights about sales and revenue._
+* _Also, the founded insights is visualized through colourful dashboard units along with the insights statements._
 ## _[Road Accident Report](Road%20Accident%20Report)_
 _The Data has Road Accident Report for the year 2021 and 2022 extracted from Ministry of Road Transport and Highways portal._
 * _The data is analyzed to gain multiple insights which can be helpful for the Stakeholders._
@@ -37,4 +39,3 @@ _The Data has Road Accident Report for the year 2021 and 2022 extracted from Min
    - _Traffic Management Agencies_
    - _Public_
    - _Media_
- - bala
