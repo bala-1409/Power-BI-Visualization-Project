@@ -39,3 +39,4 @@ _The Data has Road Accident Report for the year 2021 and 2022 extracted from Min
    - _Traffic Management Agencies_
    - _Public_
    - _Media_
+## _[Rafik's Kitchen Data Analysis](https://github.com/bala-1409/Rafik-s-Kitchen-Data-Analysis/blob/main/Analysis%20Report/Readme.md)
