@@ -40,3 +40,12 @@ _The Data has Road Accident Report for the year 2021 and 2022 extracted from Min
    - _Public_
    - _Media_
 ## _[Rafik's Kitchen Data Analysis](https://github.com/bala-1409/Rafik-s-Kitchen-Data-Analysis/blob/main/Analysis%20Report/Readme.md)_
+_The data is from the Fast-food Restaurant about their Sales and Expenses of the year 2022 which can be used to gain insights that helps business._
+
+_The collected data is of two datasets. Both the Sales and Expenses data are collected individually._
+_The Relationship is built between Sales and Expenses Data to gain proper and clear inisights for better understanding._
+_The Sales Data consists of the Sales Over a Year 2022 Except holidays which collectively has 38,157 records._
+_The Sales Data has details of Date, Order ID, Item Code, Item Name, Category, Quantity, Price, Total and Payment Mode._
+_The Expenses Data has the exact amount spend on every external expenses along with the discounts amd Store Names._
+_The Expenses Data has details of Date, Expenses Category, Amount, Discount, Final Amount after discount, Paid and Carry Forward._
+_The Sales Data helps to get clear idea about the Revenue and as far expenses data gives idea about expenses which helps to calculate profit and profit margins.._
